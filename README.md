@@ -31,3 +31,5 @@ To open your files again, just drag the locked file back in, select true algorit
 I created this project to learn more about cryptography and software architecture. While my IronWall algorithm is very complex and strong, if you are protecting extremely sensitive data (like bank details), using the AES-256 option might be the safest bet.
 
 Hope you like it!
+
+<img width="486" height="534" alt="image" src="https://github.com/user-attachments/assets/6a0a50a6-5720-4b22-8636-b061022ef54f" />
